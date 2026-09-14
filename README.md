@@ -20,26 +20,31 @@ Tools    →  Python · Siemens NX · PyAnsys
 
 ---
 
-## What I work on
+## `What I work on`
 
-### Aeroshell design
+```
+Aeroshell design
+  - Surface modelling of the solar car body
+  - Shape iteration between CAD and simulation
 
-- Surface modelling of the solar car body
-- Shape iteration between CAD and simulation
-
-### CFD
-
-- RANS simulations of the full car
-- Runs on the ETH Euler cluster (Slurm)
-- Mesh and solver setup
-- Pipeline development for a faster workflow
+CFD
+  - RANS simulations of the full car
+  - Runs on the ETH Euler cluster (Slurm)
+  - Mesh and solver setup
+  - Pipeline development for a faster workflow
+```
 
 ---
 
-## Repositories
+## `Repositories`
 
-| Repo | What it is |
-|---|---|
-| `aero_cfd_automation` | CFD pipeline. Workflow optimisation with PyAnsys / PyFluent. |
-| `FinESC` | Real-time simulator for extremum-seeking control of a morphing wingsail, without a wind sensor. |
-| `NXScripts` | NXOpen journal that builds NACA 4-digit profiles or GT2 pulleys inside Siemens NX. |
+```
+aero_cfd_automation  →  CFD pipeline. Workflow optimisation with
+                        PyAnsys / PyFluent.
+
+FinESC               →  Real-time simulator for extremum-seeking control
+                        of a morphing wingsail, without a wind sensor.
+
+NXScripts            →  NXOpen journal that builds NACA 4-digit profiles
+                        or GT2 pulleys inside Siemens NX.
+```
