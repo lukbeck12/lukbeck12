@@ -18,9 +18,6 @@ Tools    →  Python · Siemens NX · PyAnsys
 
 <div align="center">
 
-
-<br>
-
 ![Ansys Fluent](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat-square&logoColor=black)
 ![PyFluent](https://img.shields.io/badge/PyAnsys_%2F_PyFluent-CC4B00?style=flat-square)
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-009999?style=flat-square&logo=siemens&logoColor=white)
