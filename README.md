@@ -1,4 +1,4 @@
-<img src="assets/total_pressure.gif" width="100%" alt="Transient total pressure contours: vortex street shedding off a NACA 4412 at incidence">
+<img src="assets/field.gif" width="100%" alt="Animated contour field">
 
 <div align="center">
 
