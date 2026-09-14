@@ -28,7 +28,7 @@ Aeroshell design
   - Shape iteration between CAD and simulation
 
 CFD
-  - RANS simulations of the full car
+  - RANS simulations of the car
   - Runs on the ETH Euler cluster (Slurm)
   - Mesh and solver setup
   - Pipeline development for a faster workflow
