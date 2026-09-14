@@ -1,4 +1,4 @@
-<img src="assets/flow.svg" width="100%" alt="NACA 4412 at 7 degrees angle of attack, streamlines flowing past it">
+<img src="assets/total_pressure.gif" width="100%" alt="Transient total pressure contours: vortex street shedding off a NACA 4412 at incidence">
 
 <div align="center">
 
