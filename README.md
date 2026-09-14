@@ -4,7 +4,7 @@
 
 # Lukas Beck
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Aerodynamics;CFD;CAD)](https://github.com/lukbeck12)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Aerodynamics+%C2%B7+CFD+%C2%B7+CAD)](https://github.com/lukbeck12)
 
 </div>
 
