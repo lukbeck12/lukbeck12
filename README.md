@@ -4,9 +4,7 @@
 
 # Lukas Beck
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Aerodynamics+%E2%86%92+CFD+%E2%86%92+aeroshell+design;aCentauri+Solar+Racing+%C2%B7+Aerodynamics+subteam;RANS+on+the+ETH+Euler+cluster;BSc+Mechanical+Engineering+%C2%B7+ETH+Z%C3%BCrich)](https://github.com/lukbeck12)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lukbeck12&style=flat-square&color=2f81f7&label=views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Aerodynamics;CFD;CAD)](https://github.com/lukbeck12)
 
 </div>
 
@@ -20,11 +18,6 @@ Tools    →  Python · Siemens NX · PyAnsys
 
 <div align="center">
 
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 <br>
 
@@ -60,4 +53,4 @@ CFD and pipeline workflow
 |---|---|
 | `aero_cfd_automation` | AirWrap — the aCentauri CFD pipeline. Workflow optimisation with PyAnsys / PyFluent. |
 | `FinESC` | Real-time simulator for extremum-seeking control of a morphing wingsail, without a wind sensor. |
-| `NXScripts` | NXOpen journal that builds NACA 4-digit profiles inside Siemens NX. |
+| `NXScripts` | NXOpen journal that builds NACA 4-digit profiles or GT2 pulleys inside Siemens NX. |
