@@ -59,5 +59,5 @@ CFD and pipeline workflow
 | Repo | What it is |
 |---|---|
 | `aero_cfd_automation` | AirWrap — the aCentauri CFD pipeline. Workflow optimisation with PyAnsys / PyFluent. |
-| `FinESC` | Real-time simulator for extremum-seeking control of the morphing fin, without a wind sensor. |
+| `FinESC` | Real-time simulator for extremum-seeking control of a morphing wingsail, without a wind sensor. |
 | `NXScripts` | NXOpen journal that builds NACA 4-digit profiles inside Siemens NX. |
