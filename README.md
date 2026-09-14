@@ -1,12 +1,4 @@
-<img src="assets/field.gif" width="100%" alt="Animated contour field">
-
-<div align="center">
-
-# Lukas Beck
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Aerodynamics+%C2%B7+CFD+%C2%B7+CAD)](https://github.com/lukbeck12)
-
-</div>
+<img src="assets/header.gif" width="100%" alt="Lukas Beck — Aerodynamics, CFD, CAD">
 
 ```
 Studies  →  BSc Mechanical Engineering, ETH Zürich · 5th semester
@@ -30,17 +22,17 @@ Tools    →  Python · Siemens NX · PyAnsys
 
 ## What I work on
 
-```
-Aeroshell design
-  Surface modelling of the solar car body, with drag and
-  crosswind behaviour as the design driver.
+### Aeroshell design
 
-CFD and pipeline workflow
-  RANS simulations on the ETH Euler cluster, and the tooling
-  around them: mesh and solver setup, job submission, force
-  report evaluation. Most of the effort goes into making that
-  loop faster and more reproducible to run.
-```
+- Surface modelling of the solar car body
+- Shape iteration between CAD and simulation
+
+### CFD
+
+- RANS simulations of the full car
+- Runs on the ETH Euler cluster (Slurm)
+- Mesh and solver setup
+- Pipeline development for a faster workflow
 
 ---
 
